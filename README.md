@@ -23,9 +23,11 @@ For this project, I wanted to make something impressive, but also useful, which 
 7. **Communicate**
    - Communicate results, and make your findings and solution visible, so that in the future, other people who are doing similar things won't reinvent what you did, and instead are able to work off your progress.
 
+## My Process
+
 ### Step 1: Define
 
-For this step, I had to come up with a problem to solve, something which could help people. After some research into my interests, I decided that !PROBLEM! is a big problem, and I should try to solve it. It !FEASIBILITY!
+For this step, I had to come up with a problem to solve, something which could help people. After some research into my interests, I decided that I want to help solve !PROBLEM! which is important to me, because !REASON!
 
 ### Step 2: Research
 
