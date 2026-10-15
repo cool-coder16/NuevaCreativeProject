@@ -27,12 +27,18 @@ For this project, I wanted to make something impressive, but also useful, which 
 
 ### Step 1: Define
 
-For this step, I had to come up with a problem to solve, something which could help people. After some research into my interests, I decided that I want to help solve !PROBLEM! which is important to me, because !REASON!
+For this step, I had to come up with a problem to solve, something which could help people - me. I'm getting a new room, all to myself right now, and I need an alarm clock, so I thought - Why not make one? It would be a great project, both fun and useful, so I decided this one.
+
+My problem: How can I make an alarm clock?
 
 ### Step 2: Research
 
-This step begun in the previous step, in choosing my problem, and researching it's feasibility, but I continued research, and found !RESEARCH FINDINGS!
+This step begun in the previous step, in choosing my problem, and researching its feasibility, but I continued research, and found that making a typical alarm clock would be difficult, and across my time and budget. Also, I wanted to show my passions to Nueva, so I decided to use music, making a robot to play a xylophone to wake me up. After a little more research, I decided to use a glockenspiel, which is similar to a xylophone, except it has metal bars instead of wooden ones on xylophones. This makes it louder, smaller, and the sound lasts longer, which all help my project.
 
 ### Step 3: Brainstorm
 
-After all of this research, and with my problem now fleshed out, I started brainstorming solutions.
+This step was mostly complete in the last step, but I had to design my actual robot. I needed something which could quickly and accurately move sideways across a glockenspiel, and hit a note cleanly and loudly, but still quickly. The hardest part of this was probably being able to move it accurately - I needed a strong and accurate servo to accomplish this. Also, I needed a strong solenoid, and a strong mallet to get the sound which I wanted. I wanted to code in Python, my favorite language, so I'm using a Raspberry Pi Pico W.
+
+### Step 4: Prototype
+
+To begin this step, I had to make a parts list, minimizing cost, with compromising quality. First, I had to find a glockenspiel, because all of my other parts would depend on how long the glockenspiel was. After some research,
